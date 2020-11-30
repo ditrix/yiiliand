@@ -1,0 +1,28 @@
+.debug {
+    border: 1px #ddd solid;
+}
+
+
+.page-block  {
+    padding: 30px;
+}
+
+.page-2 {
+    background: #ccc;
+}
+
+#main-parameters {display: block; }
+#fos-parameters {display: none;}
+#main_panel { border: 1px #ccc solid;}
+#fos_panel { border: 1px #ccc solid; background: none;}
+
+.vspase-10 { height: 10em;}
+.vspase-5 { height: 5em;}
+.vspase-3{ height: 3em;}
+.vspase-2{ height: 2em;}
+.vspase-1{ height: 1em;}
+.vspase-0{ height: 0.5em;}
+
+.page-9 .btn-primary {background: darkorchid;}
+.page-9 .modal-content { border-radius: 40px;}
+.page-9 .modal-content .btn-primary {background: green;}
